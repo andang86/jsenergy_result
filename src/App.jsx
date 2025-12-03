@@ -762,7 +762,7 @@ export default function App() {
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-6 break-keep">
               본 문서는 <span className="font-bold text-orange-600">JS에너지지회</span>가 기업노조(교섭대표노조)에게 지회 요구안으로 전달한
-              단체협약안의 전문과 각 조항별 제안 배경을 담고 있습니다. 
+              단체협약안의 핵심내용과 각 조항별 제안 배경을 담고 있습니다. 
               <br className="hidden md:inline" />
               아래의 각 조항을 클릭하여 상세한 해설을 확인하십시오.
             </p>
